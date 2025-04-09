@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiebatong
-- 👀 I’m interested in Klassenkampf
-- 🌱 I’m currently learning Python
+- 👀 I’m interested building games
+- 🌱 I’m currently learning C
 - 😄 Pronouns: he/him
 
 <!---
