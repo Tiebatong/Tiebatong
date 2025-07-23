@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiebatong
 - 👀 I’m interested building games
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
 
 <!---
