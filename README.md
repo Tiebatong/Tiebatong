@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tiebatong
-- 👀 I’m interested building games
+- 👀 I’m interested building games and designing CPUs
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
 
